@@ -1,0 +1,30 @@
+{
+  "name": "angular-vimeo-upload",
+  "version": "1.0.0",
+  "description": "This is a angular directive to upload file / blob to vimeo channel",
+  "main": "index.js",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankajanupam/angular-vimeo-upload.git"
+  },
+  "author": "Pankaj Anupam <info@pankajanupam.in>",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/pankajanupam/angular-vimeo-upload/issues"
+  },
+  "homepage": "https://pankajanupam.github.io/angular-vimeo-upload/",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-contrib-watch": "~0.4.0"
+  }
+}
