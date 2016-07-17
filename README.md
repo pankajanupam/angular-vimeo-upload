@@ -20,7 +20,7 @@ Add a `<script>` to your `index.html`:
 Then add `ngpYoutubeUpload` as a dependency for your app:
 
 ```javascript
-angular.module('myApp', ['ngpYoutubeUpload']);
+angular.module('myApp', ['ngpVimeoUpload']);
 ```
 
 ##Uses
